@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+
+#table{
+  border-collapse: collapse;
+  margin: auto;
+}
+
+#table tr th{
+  background-color: aqua;
+}
+
+#table tr td{
+  background-color: yellow;
+}
+
+#delete-button{
+  background-color: red;
+}
+
+#update-button{
+  background-color: rgb(142, 214, 34);
+}
